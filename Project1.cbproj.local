@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/06 09:40:02.000.950,=C:\Users\Ldupont\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2023/09/06 09:40:03.000.044,=C:\Users\Ldupont\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2023/09/06 09:42:14.000.880,C:\Users\Ldupont\Desktop\Blind Chess\Unit1.h=C:\Users\Ldupont\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2023/09/06 09:42:14.000.880,C:\Users\Ldupont\Desktop\Blind Chess\Unit1.dfm=C:\Users\Ldupont\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2023/09/06 09:42:14.000.896,C:\Users\Ldupont\Desktop\Blind Chess\Project1.cbproj=C:\Users\Ldupont\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2023/09/06 09:42:14.000.880,C:\Users\Ldupont\Desktop\Blind Chess\Unit1.cpp=C:\Users\Ldupont\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2023/09/06 09:42:14.000.865,C:\Users\Ldupont\Desktop\Blind Chess\Project1PCH1.h=C:\Users\Ldupont\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2023/09/06 11:02:12.000.374,=C:\Users\Ldupont\Desktop\Blind Chess\Deplacement.cpp</Transaction>
+    <Transaction>2023/09/06 11:02:20.000.650,=C:\Users\Ldupont\Desktop\Blind Chess\Echiquier.cpp</Transaction>
+    <Transaction>2023/09/06 11:02:28.000.943,=C:\Users\Ldupont\Desktop\Blind Chess\File1 Code console Client Serveur.cpp</Transaction>
+    <Transaction>2023/09/06 11:02:33.000.560,=C:\Users\Ldupont\Desktop\Blind Chess\Joueur.cpp</Transaction>
+    <Transaction>2023/09/06 11:02:38.000.659,=C:\Users\Ldupont\Desktop\Blind Chess\Partie.cpp</Transaction>
+    <Transaction>2023/09/06 11:03:07.000.722,=C:\Users\Ldupont\Desktop\Blind Chess\ReglesEtNotation.cpp</Transaction>
+    <Transaction>2023/09/06 11:03:16.000.262,=C:\Users\Ldupont\Desktop\Blind Chess\SNClientTCP.cpp</Transaction>
+    <Transaction>2023/09/06 11:03:23.000.493,=C:\Users\Ldupont\Desktop\Blind Chess\SNImage.cpp</Transaction>
+    <Transaction>2023/09/06 11:03:31.000.807,=C:\Users\Ldupont\Desktop\Blind Chess\SNServeurHTTP.cpp</Transaction>
+    <Transaction>2023/09/06 11:03:37.000.493,=C:\Users\Ldupont\Desktop\Blind Chess\SNServeurTcpMonoClient.cpp</Transaction>
+    <Transaction>2023/09/08 08:26:35.000.462,=C:\Users\Ldupont\Desktop\Blind Chess\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
